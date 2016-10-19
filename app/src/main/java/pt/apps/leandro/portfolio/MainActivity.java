@@ -143,6 +143,8 @@ public class MainActivity extends AppCompatActivity {
             protected void populateViewHolder(PostViewHolder viewHolder, Post model, int position) {
 
 
+                //Teste
+
                 String username = mDatabasePost.toString();
                 String usernameDB = mDatabaseUser.toString();
 
