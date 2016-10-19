@@ -55,6 +55,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+    //TESTE
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -143,7 +145,6 @@ public class MainActivity extends AppCompatActivity {
             protected void populateViewHolder(PostViewHolder viewHolder, Post model, int position) {
 
 
-                //Teste
 
                 String username = mDatabasePost.toString();
                 String usernameDB = mDatabaseUser.toString();
