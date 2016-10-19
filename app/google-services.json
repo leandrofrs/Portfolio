@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "67207179792",
+    "firebase_url": "https://portfolio-bb216.firebaseio.com",
+    "project_id": "portfolio-bb216",
+    "storage_bucket": "portfolio-bb216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67207179792:android:361da4aa5bcfba2d",
+        "android_client_info": {
+          "package_name": "pt.apps.leandro.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67207179792-3t3q5ag5k4c82419hpgblcuarc1d0e25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2yFwMeYju3xFve1eON4yR6qNGCVQyO0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
